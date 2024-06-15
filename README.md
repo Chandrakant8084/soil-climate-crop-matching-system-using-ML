@@ -24,8 +24,11 @@ pip install -r requirements.txt <br>
 python app.py
 <br>
 <h1>Architecture</h1>
-![Architecture Diagram](https://github.com/Chandrakant8084/soil-climate-crop-matching-system-using-ML/blob/main/arc.png?raw=true)
+![Architecture](https://github.com/Chandrakant8084/soil-climate-crop-matching-system-using-ML/blob/main/arc.png?raw=true)
 <br>
 <h1>Accuracy Comparison</h1>
+![Accuracy Comparision](https://github.com/Chandrakant8084/soil-climate-crop-matching-system-using-ML/blob/main/ac.png?raw=true)
 <br>
 <h1>Results</h1>
+![Sample Input](https://github.com/Chandrakant8084/soil-climate-crop-matching-system-using-ML/blob/main/so.png?raw=true) <br>
+![Sample Output](https://github.com/Chandrakant8084/soil-climate-crop-matching-system-using-ML/blob/main/si.png?raw=true)
